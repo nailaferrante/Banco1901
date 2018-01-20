@@ -1,0 +1,10 @@
+C:\Users\fic.INFO\backend\projetoBanco1901\obj\Debug\netcoreapp2.0\projetoBanco1901.csproj.CoreCompileInputs.cache
+C:\Users\fic.INFO\backend\projetoBanco1901\obj\Debug\netcoreapp2.0\projetoBanco1901.AssemblyInfoInputs.cache
+C:\Users\fic.INFO\backend\projetoBanco1901\obj\Debug\netcoreapp2.0\projetoBanco1901.AssemblyInfo.cs
+C:\Users\fic.INFO\backend\projetoBanco1901\bin\Debug\netcoreapp2.0\projetoBanco1901.deps.json
+C:\Users\fic.INFO\backend\projetoBanco1901\bin\Debug\netcoreapp2.0\projetoBanco1901.runtimeconfig.json
+C:\Users\fic.INFO\backend\projetoBanco1901\bin\Debug\netcoreapp2.0\projetoBanco1901.runtimeconfig.dev.json
+C:\Users\fic.INFO\backend\projetoBanco1901\bin\Debug\netcoreapp2.0\projetoBanco1901.dll
+C:\Users\fic.INFO\backend\projetoBanco1901\bin\Debug\netcoreapp2.0\projetoBanco1901.pdb
+C:\Users\fic.INFO\backend\projetoBanco1901\obj\Debug\netcoreapp2.0\projetoBanco1901.dll
+C:\Users\fic.INFO\backend\projetoBanco1901\obj\Debug\netcoreapp2.0\projetoBanco1901.pdb
